@@ -22,6 +22,9 @@ public class Main {
 		Calculator cal = new Calculator();
 		int addResult = cal.add(1, 2);
 		System.out.println(addResult);
+		
+		int subResult = cal.subtract(3, 1);
+		System.out.println(subResult);
 
 
 	}
