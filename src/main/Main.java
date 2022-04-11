@@ -8,6 +8,10 @@ public class Main {
 		System.out.println("원격저장소 사용 가능2");
 		System.out.println("팀장 코드시작입니다.");
 		System.out.println("팀장 코드마지막입니다.");
+		
+		System.out.println("팀원 코드1");
+		System.out.println("팀원 코드2");
+		System.out.println("팀원 코드3");
 
 	}
 
